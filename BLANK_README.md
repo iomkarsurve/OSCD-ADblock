@@ -148,4 +148,4 @@ Project Link: [https://github.com/iomkarsurve/OSCD-ADblock](https://github.com/i
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/omkar-surve/
 [product-screenshot]: images/screenshot.png
-[product-screenshot2]: images/afterscreenshot.png
+[product-screenshot2]: images/afterscreenshot.PNG
