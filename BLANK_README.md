@@ -68,7 +68,7 @@
 ## About The Project
 
 [![Before Enabling][product-screenshot]]()
-[![After Enabling OSCD ADblock][product-screenshot]]()
+[![After Enabling OSCD ADblock][product-screenshot2]]()
 
 
 OSCD Adblocker is based on DevSage adblock. This is my first chrome extension.
