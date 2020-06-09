@@ -1,2 +1,0 @@
-# OSCD-ADblock
-OSCD ADblocker
